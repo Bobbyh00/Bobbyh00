@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bobby
-- 👀 I’m interested in Python3, Jav
+- 👀 I’m interested in Python3, Java
 - 🌱 I’m currently learning Statistics, Data Science & Finance
 
 
